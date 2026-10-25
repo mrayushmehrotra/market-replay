@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Market Replay
+
+Market Replay is a forex and crypto backtesting and market replay platform built with Next.js.
 
 ## Getting Started
 

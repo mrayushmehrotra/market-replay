@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-10-25T11:44:25.348Z",
+  "firebaseStorageBucket": "marketreplay.firebasestorage.app",
+  "firebaseProjectId": "marketreplay",
+  "storagePath": "dashboards/default_user/dashboard-backup.json",
+  "dashboardData": {
+    "userId": "default_user",
+    "timeInvestedSeconds": 3480,
+    "historicalTimeReplayedSeconds": 4986000,
+    "totalTrades": 39,
+    "buyTrades": 21,
+    "sellTrades": 18,
+    "winningTrades": 16,
+    "winRate": 41.03,
+    "streakDays": 2,
+    "lastStreakDate": "2026-10-25",
+    "selectedMode": "Prop Firm",
+    "selectedTimeFilter": "Last 7 Days",
+    "selectedTab": "Sessions",
+    "sessions": [
+      {
+        "id": "gold-sma",
+        "name": "gold sma 5-13",
+        "retentionDays": "7 days",
+        "dateRange": "9/15/26 - 10/23/26",
+        "balance": "$48,672.39",
+        "symbol": "XAUUSD",
+        "progressPercent": 78.95,
+        "remainingDays": 8,
+        "tradesCount": 26,
+        "winRate": "42.31%",
+        "netPnl": "+$8,672.39",
+        "profitFactor": "1.84",
+        "maxDrawdown": "2.4%"
+      },
+      {
+        "id": "asia",
+        "name": "Asia",
+        "retentionDays": "6 days",
+        "dateRange": "8/6/25 - 10/23/26",
+        "balance": "$11,079.16",
+        "symbol": "XAUUSD",
+        "progressPercent": 7.22,
+        "remainingDays": 411,
+        "tradesCount": 13,
+        "winRate": "38.46%",
+        "netPnl": "+$1,079.16",
+        "profitFactor": "1.52",
+        "maxDrawdown": "1.8%"
+      }
+    ],
+    "chartTimeLogs": {
+      "2026-10-19": 600,
+      "2026-10-20": 900,
+      "2026-10-21": 480,
+      "2026-10-22": 540,
+      "2026-10-23": 900,
+      "2026-10-25": 60
+    },
+    "updatedAt": "2026-10-25T11:44:15.000Z"
+  }
+}
